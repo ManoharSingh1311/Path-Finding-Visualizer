@@ -83,7 +83,7 @@ git push -u origin main
 - Save the changes.  
 
 ### Access the Live Link  
-GitHub will generate a live link (e.g., `https://ManoharSingh1311.github.io/Pathfinding-Visualizer`). This can take a few minutes to activate.  
+GitHub will generate a live link (e.g., `https://manoharsingh1311.github.io/Path-Finding-Visualizer`). This can take a few minutes to activate.  
 
 ### Contact  
 For any inquiries, feel free to reach out:  
