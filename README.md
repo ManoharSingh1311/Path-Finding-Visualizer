@@ -1,4 +1,4 @@
-# Pathfinding Visualizer  
+# [Pathfinding Visualizer](https://manoharsingh1311.github.io/Path-Finding-Visualizer)
 
 **Pathfinding Visualizer** is an interactive and educational web application that demonstrates the behavior of various pathfinding algorithms. Designed and implemented by **Manohar Singh**, this project provides an intuitive visualization of graph traversal techniques like Dijkstra's Algorithm, Breadth-First Search (BFS), and Depth-First Search (DFS).  
 
