@@ -37,7 +37,7 @@ DFS explores as deep as possible along each branch before backtracking. It’s e
 
 ## Live Demo  
 
-Try the project live here: [Pathfinding Visualizer](https://ManoharSingh1311.github.io/Pathfinding-Visualizer).  
+Try the project live here: [Pathfinding Visualizer](https://manoharsingh1311.github.io/Path-Finding-Visualizer).  
 
 ---
 
